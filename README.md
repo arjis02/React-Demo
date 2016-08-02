@@ -1,2 +1,2 @@
-# rtab
+# React Demo
 React project
